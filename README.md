@@ -15,7 +15,7 @@ Insight Generation: Leveraging the LLM to classify each team's performance with 
 This project demonstrates a modern workflow where traditional data analysis is enhanced by the contextual understanding and summarization capabilities of a powerful AI.
 
 ## Raw Dataset Link
-The dataset used for this analysis is epl_final.csv, which contains detailed match-by-match statistics for the English Premier League from the 2000/01 season to the 2024/25 season.
+The dataset used for this analysis is epl_match_stats.csv, which contains detailed match-by-match statistics for the English Premier League from the 2000/01 season to the 2024/25 season.
 
 View the dataset here: epl_match_stats.csv
 
