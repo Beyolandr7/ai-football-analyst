@@ -59,7 +59,11 @@ The analysis from the IBM Granite model provided a clear classification of each 
 
 - **Arsenal** stands out with a significant home advantage, even though they won 67.09% of their matches at the Emirates Stadium, they drew 20.73% of their home games.
 
-- **Birmingham** has the worst home record, winning only 36.92% of their matches at St. Andrew's, and the poorest away record, winning just 17.
+- **Birmingham** has the worst home record, winning only 36.92% of their matches at St. Andrew's, and the poorest away record, winning just around 17% of their home games.
+  
+- **Huddersfield** and **Ipswich** have the lowest combined home and away win rates (42.11% and 32.73% respectively), suggesting overall poor performance.
+  
+- **Leeds** and **Norwich** show a considerable gap between their home and away performance, with Leeds performing significantly better at home (36.64% vs 33.85%) and Norwich worse (29.77% vs 11.45%).
 
 ## AI Support Explanation
 The IBM Granite LLM (ibm-granite/granite-3.2-8-instruct) was a critical component of this analysis, serving as an AI-powered data analyst. Its role went beyond simple computation and involved classification, summarization, and contextual interpretation.
