@@ -17,7 +17,7 @@ This project demonstrates a modern workflow where traditional data analysis is e
 ## Raw Dataset Link
 The dataset used for this analysis is epl_match_stats.csv, which contains detailed match-by-match statistics for the English Premier League from the 2000/01 season to the 2024/25 season.
 
-View the dataset here: epl_match_stats.csv
+View the dataset here: [epl_match_stats.csv](https://github.com/Beyolandr7/ai-football-analyst/blob/410ea889b79aa6b7ea843324e418c90bceecae97/epl_match_stats.csv)
 
 ## Acknowledgements
 This project utilizes the "English Premier League (EPL) Match Data 2000-2025" dataset, which was generously compiled and shared by Marco Hui on Kaggle.
