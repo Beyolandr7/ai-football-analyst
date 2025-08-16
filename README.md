@@ -71,15 +71,3 @@ Structured Prompting: A detailed prompt was engineered to provide the AI with th
 Performance Classification: The primary task for the AI was to classify each team's performance using descriptive labels. This transforms raw percentages into meaningful insights that are easier to understand (e.g., turning a "68% home win rate" into a "Fortress" classification).
 
 Insight Summarization: The model was instructed to generate a brief, expert-level summary for each team and to identify the top 3 performers in both home and away categories. This automates the process of drawing final conclusions from the data.
-
-The following parameters were used to ensure a deterministic and focused response from the model:
-
-{
-  "temperature": 0.2,
-  "top_p": 0.9,
-  "top_k": 0,
-  "repetition_penalty": 1.1,
-  "max_tokens": 512
-}
-
-By leveraging the LLM, this project was able to produce a richer, more qualitative analysis than would be possible with statistical calculations alone.
