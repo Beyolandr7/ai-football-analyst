@@ -33,31 +33,31 @@ The analysis from the IBM Granite model provided a clear classification of each 
 
 **Top 3 Clubs with the Best Home Record (Fortresses):**
 
-1. **Manchester City** - 65.11% wins
+1. **Manchester City** - 65.11% wins (65.11% wins, 16.0% draws, 18.89% losses)
    - Man City has an exceptional home record, winning over 65% of their matches at home, making them one of the strongest home teams in the Premier League.
 
-2. **Manchester United** - 67.8% wins
+2. **Manchester United** - 67.8% wins (67.8% wins, 17.48% draws, 14.71% losses)
    - Man United boasts the highest win percentage among home teams, winning nearly 68% of their home games. This demonstrates their formidable presence at Old Trafford.
 
-3. **Chelsea** - 63.75% wins
+3. **Chelsea** - 63.75% wins (63.75% wins, 23.45% draws, 12.79% losses)
    - Chelsea's home performance is also remarkable, with a win rate just below Manchester City and United. Stamford Bridge has traditionally been a tough place for opponents.
 
 ### Away Performance Analysis
 
 **Top 3 Clubs with the Best Away Record (Best Travelers):**
 
-1. **Manchester City** - 46.0% wins
+1. **Manchester City** - 46.0% wins (49.89% wins, 24.52% draws, 25.59% losses)
    - Despite their dominance at home, Man City also performs well away from home, securing victories in nearly 46% of their away games, showcasing their ability to adapt to different venues.
 
-2. **Manchester United** - 49.89% wins
+2. **Manchester United** - 49.89% wins (46.0% wins, 21.78% draws, 32.22% losses)
    - Man United's away record is robust, with wins in just over 50% of their away matches, highlighting their consistency on the road.
 
-3. **Chelsea** - 50.0% wins
+3. **Chelsea** - 50.0% wins (50.0% wins, 22.44% draws, 27.56% losses)
    - Chelsea rounds out the top 3 away teams, with a win rate of 50% in their away fixtures, indicating they remain competitive regardless of the venue.
 
 ### Other Notable Findings:
 
-- **Arsenal** stands out with a significant home advantage, winning 67.09% of their matches at the Emirates Stadium, but struggle more on the road with a 46.91% win rate.
+- **Arsenal** stands out with a significant home advantage, even though they won 67.09% of their matches at the Emirates Stadium, they drew 20.73% of their home games.
 
 - **Birmingham** has the worst home record, winning only 36.92% of their matches at St. Andrew's, and the poorest away record, winning just 17.
 
