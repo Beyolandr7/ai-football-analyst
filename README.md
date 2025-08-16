@@ -17,9 +17,16 @@ This project demonstrates a modern workflow where traditional data analysis is e
 ## Raw Dataset Link
 The dataset used for this analysis is epl_final.csv, which contains detailed match-by-match statistics for the English Premier League from the 2000/01 season to the 2024/25 season.
 
-View the dataset here: epl_final.csv
+View the dataset here: epl_match_stats.csv
 
-(Note: You'll need to upload the epl_final.csv file to your repository for this link to work.)
+## Acknowledgements
+This project utilizes the "English Premier League (EPL) Match Data 2000-2025" dataset, which was generously compiled and shared by Marco Hui on Kaggle.
+
+Dataset Creator: Marco Hui
+
+Source: [Kaggle Dataset Link](https://www.kaggle.com/datasets/marcohuiii/english-premier-league-epl-match-data-2000-2025)
+
+A big thank you to the creator for making this valuable data publicly available.
 
 ## Insight & Findings
 The analysis from the IBM Granite model provided a clear classification of each team's performance. Below are the key findings.
