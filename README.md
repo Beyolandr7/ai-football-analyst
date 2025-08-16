@@ -1,4 +1,4 @@
-AI Football Analyst: EPL Home & Away Performance
+#AI Football Analyst: EPL Home & Away Performance
 An analysis of English Premier League match data to classify team performance, identifying the strongest home "fortresses" and best away "travelers" using the IBM Granite LLM.
 
 Project Overview
