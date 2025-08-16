@@ -31,28 +31,35 @@ A big thank you to the creator for making this valuable data publicly available.
 ## Insight & Findings
 The analysis from the IBM Granite model provided a clear classification of each team's performance. Below are the key findings.
 
-### Top Home Teams (Fortresses)
-These clubs have demonstrated formidable strength at their home stadiums, making them incredibly difficult for visiting teams to beat.
+**Top 3 Clubs with the Best Home Record (Fortresses):**
 
-[Team Name 1]: [Enter the model's summary for this team's home performance here. Example: Classified as a 'True Fortress' with a home win percentage of XX%. The model noted their consistent ability to dominate possession and score early goals at home.]
+1. **Manchester City** - 65.11% wins
+   - Man City has an exceptional home record, winning over 65% of their matches at home, making them one of the strongest home teams in the Premier League.
 
-[Team Name 2]: [Enter the model's summary here.]
+2. **Manchester United** - 67.8% wins
+   - Man United boasts the highest win percentage among home teams, winning nearly 68% of their home games. This demonstrates their formidable presence at Old Trafford.
 
-[Team Name 3]: [Enter the model's summary here.]
+3. **Chelsea** - 63.75% wins
+   - Chelsea's home performance is also remarkable, with a win rate just below Manchester City and United. Stamford Bridge has traditionally been a tough place for opponents.
 
-### Top Away Teams (Best Travelers)
-These clubs have shown remarkable resilience and tactical awareness, securing impressive results on the road.
+### Away Performance Analysis
 
-[Team Name 1]: [Enter the model's summary for this team's away performance here. Example: Labeled an 'Excellent Traveler' with an away win percentage of XX%. The AI highlighted their effective counter-attacking strategy as a key factor in their success away from home.]
+**Top 3 Clubs with the Best Away Record (Best Travelers):**
 
-[Team Name 2]: [Enter the model's summary here.]
+1. **Manchester City** - 46.0% wins
+   - Despite their dominance at home, Man City also performs well away from home, securing victories in nearly 46% of their away games, showcasing their ability to adapt to different venues.
 
-[Team Name 3]: [Enter the model's summary here.]
+2. **Manchester United** - 49.89% wins
+   - Man United's away record is robust, with wins in just over 50% of their away matches, highlighting their consistency on the road.
 
-### General Observations
-[Add any other interesting findings here. For example: The model observed a league-wide trend where the home-field advantage has slightly decreased in the last five seasons.]
+3. **Chelsea** - 50.0% wins
+   - Chelsea rounds out the top 3 away teams, with a win rate of 50% in their away fixtures, indicating they remain competitive regardless of the venue.
 
-[Another finding. For example: Teams finishing in the top four consistently had an away win percentage above XX%.]
+### Other Notable Findings:
+
+- **Arsenal** stands out with a significant home advantage, winning 67.09% of their matches at the Emirates Stadium, but struggle more on the road with a 46.91% win rate.
+
+- **Birmingham** has the worst home record, winning only 36.92% of their matches at St. Andrew's, and the poorest away record, winning just 17.
 
 ## AI Support Explanation
 The IBM Granite LLM (ibm-granite/granite-3.2-8-instruct) was a critical component of this analysis, serving as an AI-powered data analyst. Its role went beyond simple computation and involved classification, summarization, and contextual interpretation.
