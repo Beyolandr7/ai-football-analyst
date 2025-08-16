@@ -1,7 +1,7 @@
-#AI Football Analyst: EPL Home & Away Performance
+# AI Football Analyst: EPL Home & Away Performance
 An analysis of English Premier League match data to classify team performance, identifying the strongest home "fortresses" and best away "travelers" using the IBM Granite LLM.
 
-Project Overview
+## Project Overview
 This capstone project dives into over two decades of English Premier League (EPL) match data to uncover patterns in team performance. The core objective is to determine which clubs have a significant home-field advantage and which excel on the road.
 
 The analysis process involves:
@@ -14,17 +14,17 @@ Insight Generation: Leveraging the LLM to classify each team's performance with 
 
 This project demonstrates a modern workflow where traditional data analysis is enhanced by the contextual understanding and summarization capabilities of a powerful AI.
 
-Raw Dataset Link
+## Raw Dataset Link
 The dataset used for this analysis is epl_final.csv, which contains detailed match-by-match statistics for the English Premier League from the 2000/01 season to the 2024/25 season.
 
 View the dataset here: epl_final.csv
 
 (Note: You'll need to upload the epl_final.csv file to your repository for this link to work.)
 
-Insight & Findings
+## Insight & Findings
 The analysis from the IBM Granite model provided a clear classification of each team's performance. Below are the key findings.
 
-Top Home Teams (Fortresses)
+### Top Home Teams (Fortresses)
 These clubs have demonstrated formidable strength at their home stadiums, making them incredibly difficult for visiting teams to beat.
 
 [Team Name 1]: [Enter the model's summary for this team's home performance here. Example: Classified as a 'True Fortress' with a home win percentage of XX%. The model noted their consistent ability to dominate possession and score early goals at home.]
@@ -33,7 +33,7 @@ These clubs have demonstrated formidable strength at their home stadiums, making
 
 [Team Name 3]: [Enter the model's summary here.]
 
-Top Away Teams (Best Travelers)
+### Top Away Teams (Best Travelers)
 These clubs have shown remarkable resilience and tactical awareness, securing impressive results on the road.
 
 [Team Name 1]: [Enter the model's summary for this team's away performance here. Example: Labeled an 'Excellent Traveler' with an away win percentage of XX%. The AI highlighted their effective counter-attacking strategy as a key factor in their success away from home.]
@@ -42,12 +42,12 @@ These clubs have shown remarkable resilience and tactical awareness, securing im
 
 [Team Name 3]: [Enter the model's summary here.]
 
-General Observations
+### General Observations
 [Add any other interesting findings here. For example: The model observed a league-wide trend where the home-field advantage has slightly decreased in the last five seasons.]
 
 [Another finding. For example: Teams finishing in the top four consistently had an away win percentage above XX%.]
 
-AI Support Explanation
+## AI Support Explanation
 The IBM Granite LLM (ibm-granite/granite-3.2-8-instruct) was a critical component of this analysis, serving as an AI-powered data analyst. Its role went beyond simple computation and involved classification, summarization, and contextual interpretation.
 
 Here’s how the AI was utilized:
